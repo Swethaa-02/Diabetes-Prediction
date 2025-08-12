@@ -1,4 +1,4 @@
-# Diabetes-Prediction 📊
+
 # 🩺 Diabetes Prediction using Machine Learning
 
 ## 📑 Table of Contents
@@ -62,11 +62,11 @@ print("Diabetes" if prediction[0] == 1 else "No Diabetes")
 
 ## 📊 Results
 
-- Metric        	Score
-- Accuracy	      0.88
-- Precision	      0.86
-- Recall	        0.84
-- F1-Score      	0.85
+- Metric      -   	Score
+- Accuracy	  -     0.88
+- Precision	  -     0.86
+- Recall	    -     0.84
+- F1-Score    -   	0.85
 
 ---
 

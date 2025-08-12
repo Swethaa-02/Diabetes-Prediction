@@ -30,12 +30,12 @@ This project predicts the likelihood of a patient having diabetes using **machin
 ## ⚙ Workflow
 
 flowchart TD
-    A[Data Collection] --> B[Data Preprocessing]
-    B --> C[Exploratory Data Analysis]
-    C --> D[Feature Selection]
-    D --> E[Model Training]
-    E --> F[Model Evaluation]
-    F --> G[Prediction]
+   - A[Data Collection] --> B[Data Preprocessing]
+   - B --> C[Exploratory Data Analysis]
+   - C --> D[Feature Selection]
+   - D --> E[Model Training]
+   - E --> F[Model Evaluation]
+   - F --> G[Prediction]
 
 ---
 
@@ -62,11 +62,11 @@ print("Diabetes" if prediction[0] == 1 else "No Diabetes")
 
 ## 📊 Results
 
-Metric        	Score
-Accuracy	      0.88
-Precision	      0.86
-Recall	        0.84
-F1-Score      	0.85
+- Metric        	Score
+- Accuracy	      0.88
+- Precision	      0.86
+- Recall	        0.84
+- F1-Score      	0.85
 
 ---
 
